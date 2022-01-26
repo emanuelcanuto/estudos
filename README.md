@@ -9,3 +9,7 @@ Temos uma Coleção de Projetos que devem ser ordenado pelo Trimestre que é um 
 [src/main/java/hashmap](https://github.com/emanuelcanuto/estudos/tree/main/src/main/java/hashmap)
 
 [src/test/hashmap](https://github.com/emanuelcanuto/estudos/tree/main/src/test/java/hashmap)
+
+## Ordenação de List<Object>
+
+Temos uma coleção de Empresas que devem ser ordenados por date de cadastro e nome.
